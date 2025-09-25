@@ -1,3 +1,7 @@
+// Root route for health check or welcome
+app.get('/', (req, res) => {
+  res.send('TODO API is running!');
+});
 import express from 'express';
 import mongoose from 'mongoose';
 import cors from 'cors';
