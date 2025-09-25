@@ -5,6 +5,8 @@ This is a repo for a basic TODO app with:
 - Node.js + Express backend
 - MongoDB database
 
+- LINK : https://basictodo-jr.vercel.app/
+
 ## Structure
 - `frontend/` — Svelte app
 - `backend/` — Express API server
@@ -36,3 +38,4 @@ This is a repo for a basic TODO app with:
 
 ## License
 MIT
+
